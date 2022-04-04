@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working with Unity, C#  
+🌱 I’m currently learning Ionic, Typescript, Angular!  
+📫 How to reach me:  [Alen Hasanbašić](mailto:bilke1104@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![Top Langs](https://github-readme-stats-2-jk6xc9v2c-bilkefpv.vercel.app/api/top-langs/?username=bilkefpv&exclude_repo=github-readme-stats&hide=cython,html,c,fortran&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
