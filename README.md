@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working with Unity, C#  
-🌱 I’m currently learning Ionic, Typescript, Angular!  
+🌱 I’m currently learning Ionic, Angular!  
 📫 How to reach me:  bilke1104@gmail.com  
 
 Without Python  
