@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working with Unity, C#  
-🌱 I’m currently learning Ionic, Angular!  
-📫 How to reach me:  bilke1104@gmail.com  
 
-[![Top Langs](https://github-readme-stats-2-jk6xc9v2c-bilkefpv.vercel.app/api/top-langs/?username=bilkefpv&&exclude_repo=github-readme-stats&hide=c%2b%2b,c,cython,fortran&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
